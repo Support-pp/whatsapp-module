@@ -1,4 +1,4 @@
 # whatsapp-module - issues tracker
 
-Here you can create a new GitHub issues if you find any kind of bug or problem with the whatsapp-console or the api.
-Thank you for the support!
+Here you can create a new GitHub issue if you find any bug or problem with whatsapp console or API.
+Thanks for the support!
